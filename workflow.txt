@@ -1,0 +1,16 @@
+1. Create virtual environment and activate it.
+
+2. Prepare requirements.txt
+
+3. install the requirements
+
+4. Way of working with Relational databases:-
+(a) Conenct to database (Create connection object)
+(b) Create cursor
+(c) Write query
+(d) Execute query using cursor. Ensure to commit after executing DML commands
+(e) Iterate through cursor to get the values
+(f) Close cursor 
+(g) close connection
+
+
